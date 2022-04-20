@@ -1,0 +1,16 @@
+{
+    "google": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+    "facebook": "https://ads.facebook.com",
+    "doubleclick": "https://ad.doubleclick.net/",
+    "fastclick": "https://media.fastclick.net/",
+    "amazon": "https://advice-ads.s3.amazonaws.com",
+    "twitter": "https://ads-api.twitter.com",
+    "linkedin": "https://ads.linkedin.com",
+    "pinterest": "https://ads.pinterest.com",
+    "reddit": "https://ads.reddit.com",
+    "youtube": "https://ads.youtube.com",
+    "tiktok": "https://ads.tiktok.com",
+    "yahoo": "https://ads.yahoo.com",
+    "yandex": "https://adsdk.yandex.ru",
+    "xiaomi": "https://api.ad.xiaomi.com"
+}
