@@ -36,7 +36,7 @@ $serverlist = array(
         "des" => "These are the optional servers that is blocked by the adblock extensions.",
         "servers" => array(
             "yahoo" => "https://ads.yahoo.com",
-            "yandex" => "https://adsdk.yandex.ru",
+            //"yandex" => "https://adsdk.yandex.ru",
             "xiaomi" => "https://api.ad.xiaomi.com"
         )
     )
